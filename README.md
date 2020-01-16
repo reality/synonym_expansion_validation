@@ -40,11 +40,12 @@ also stored in *cardio/* and *cardio/*.
 ./Komenti query -cl 'Abnormality of the cardiovascular system' -o HP --expand-synonyms --out cardio/expanded_cardiovasc.txt
 ```
 
-Then, we just have to annotate the output:
+Then, we just have to annotate the output. These files are stored in *cardio/unexp_ann.tsv* and *cardio/exp_ann.tsv*.
 
 ```bash
 
 ```
+
 
 ## MEDLINE evaluation
 

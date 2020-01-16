@@ -11,7 +11,6 @@ new File('./hpo/expanded_all.txt').splitEachLine('\t') {
   if(!expanded.containsKey(it[1])) {
     expanded[it[1]] = []   
   }
-  println it[1]
   if(!initial[it[1]].contains(it[0])) {
     expanded[it[1]] << it[0]
   }
@@ -23,7 +22,7 @@ def r = new Random()
 def found = 0
 
 while(found < 50) {
-  def i = r.nextInt(keys)
+  def i = keys[r.nextInt(keys.size())]
   expanded[i].each { z ->
     println "$i\t${initial[i][0]}\t${z}"
   }
