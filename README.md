@@ -30,7 +30,7 @@ used to validate, along with their validations, are available in
 You will have to obtain the MIMIC-III files yourself. But when you do, you can
 access the NOTEEVENTS.csv file. Then, you can use *sample_mim3.groovy* to
 extract random entries from it. It's a bit interesting to read random samples
-from such a large file.
+from such a large file. That will create *mim3_entry_sample.tsv*.
 
 Then, you can generate labels files for cardiovascular abnormalities. These are
 also stored in *cardio/* and *cardio/*.
@@ -40,10 +40,11 @@ also stored in *cardio/* and *cardio/*.
 ./Komenti query -cl 'Abnormality of the cardiovascular system' -o HP --expand-synonyms --out cardio/expanded_cardiovasc.txt
 ```
 
-Then, we just have to annotate the output. These files are stored in *cardio/unexp_ann.tsv* and *cardio/exp_ann.tsv*.
+Then, we just have to annotate the entries. These annotations are stored in *cardio/unexp_ann.tsv* and *cardio/exp_ann.tsv*.
 
 ```bash
-
+./Komenti annotate --out cardio/unexp_ann.txt -l cardio/unexpanded_cardiovasc.txt -t mim3_entry_sample.tsv --per-line
+./Komenti annotate --out cardio/exp_ann.txt -l cardio/expanded_cardiovasc.txt -t mim3_entry_sample.tsv --per-line
 ```
 
 
