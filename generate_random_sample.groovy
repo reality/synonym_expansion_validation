@@ -21,7 +21,7 @@ def keys = expanded.keySet().toArray()
 def r = new Random()
 def found = 0
 
-while(found < 50) {
+while(found < 500) {
   def i = keys[r.nextInt(keys.size())]
   expanded[i].each { z ->
     println "$i\t${initial[i][0]}\t${z}"
