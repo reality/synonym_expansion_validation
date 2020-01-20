@@ -1,0 +1,65 @@
+hypertension	HP
+heart disease	EFO
+atrial fibrillation	HP
+hyperlipidemia	HP
+peripheral vascular disease	DOID
+thromboembolic stroke	HP
+human immunodeficiency virus	NCIT
+renal colic	DOID
+multiple myeloma	HP
+heart failure	NCIT
+osteoarthritis	HP
+myocardial infarction	HP
+permanent cardiac pacemaker	NCIT
+gout	DOID
+rheumatoid arthritis	HP
+systemic lupus erythematosus	HP
+psoriasis	NCIT
+type 2 diabetes mellitus	DOID
+epilepsy	DOID
+type 1 diabetes mellitus	DOID
+<http://purl.obolibrary.org/obo/DOID_14330>	DOID
+hypothyroidism	HP
+multiple sclerosis	DOID
+osteoporosis	HP
+transient ischemic attack	NCIT
+hyperthyroidism	HP
+<http://purl.obolibrary.org/obo/HP_0100280>	HP
+gastroesophageal reflux	HP
+ulcerative colitis	HP
+stroke	HP
+breast cancer	DOID
+diverticulitis	DOID
+alcoholic liver disease	NCIT
+colon cancer	DOID
+glaucoma	HP
+peptic ulcer disease	DOID
+depression	DOID
+bipolar disorder	DOID
+irritable bowel syndrome	DOID
+celiac disease	DOID
+schizophrenia	DOID
+alcohol dependence	DOID
+gastric ulcer	HP
+duodenal ulcer	HP
+chronic renal failure	NCIT
+kidney cancer	DOID
+acute renal failure	NCIT
+iron deficiency anemia	HP
+asthma	HP
+sickle cell disease	NCIT
+chronic obstructive pulmonary disease	HP
+dementia	HP
+pulmonary embolism	HP
+chronic bronchitis	HP
+bronchiectasis	HP
+hepatitis c	DOID
+sleep apnea	HP
+obesity	HP
+lung cancer	DOID
+pneumonia	HP
+fall	NCIT
+emphysema	HP
+prostate cancer	HP
+bladder carcinoma	HP
+benign prostatic hyperplasia	HP
