@@ -5,7 +5,9 @@ hyperlipidemia	http://purl.obolibrary.org/obo/HP_0003077	hyperlipidemia	false	1
 elevated lipids in blood	http://purl.obolibrary.org/obo/HP_0003077	hyperlipidemia	false	1
 peripheral vascular disease	http://purl.obolibrary.org/obo/DOID_341	'peripheral vascular disease'	false	1
 arterial occlusive disease	http://purl.obolibrary.org/obo/DOID_341	'peripheral vascular disease'	false	1
-thromboembolic stroke	http://purl.obolibrary.org/obo/HP_0001727	'thromboembolic stroke'	false	1
+deep venous thrombosis	http://purl.obolibrary.org/obo/HP_0002625	'deep venous thrombosis'	false	1
+blood clot in a deep vein	http://purl.obolibrary.org/obo/HP_0002625	'deep venous thrombosis'	false	1
+deep vein thrombosis	http://purl.obolibrary.org/obo/HP_0002625	'deep venous thrombosis'	false	1
 human immunodeficiency virus	http://purl.obolibrary.org/obo/NCIT_C14219	'human immunodeficiency virus'	false	1
 virus\-hiv	http://purl.obolibrary.org/obo/NCIT_C14219	'human immunodeficiency virus'	false	1
 virus \(hiv\), human immunodeficiency	http://purl.obolibrary.org/obo/NCIT_C14219	'human immunodeficiency virus'	false	1

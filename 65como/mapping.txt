@@ -3,7 +3,7 @@ ischemic heart disease	EFO
 atrial fibrillation	HP
 hyperlipidemia	HP
 peripheral vascular disease	DOID
-thromboembolic stroke	HP
+deep venous thrombosis	HP
 human immunodeficiency virus	NCIT
 renal colic	DOID
 multiple myeloma	HP

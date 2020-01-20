@@ -89,7 +89,10 @@ disease, peripheral vascular	http://purl.obolibrary.org/obo/DOID_341	'peripheral
 angiopathy, peripheral	http://purl.obolibrary.org/obo/DOID_341	'peripheral vascular disease'	false	1
 peripheral vascular disorder	http://purl.obolibrary.org/obo/DOID_341	'peripheral vascular disease'	false	1
 peripheral angiopathies	http://purl.obolibrary.org/obo/DOID_341	'peripheral vascular disease'	false	1
-thromboembolic stroke	http://purl.obolibrary.org/obo/HP_0001727	'thromboembolic stroke'	false	1
+deep venous thrombosis	http://purl.obolibrary.org/obo/HP_0002625	'deep venous thrombosis'	false	1
+blood clot in a deep vein	http://purl.obolibrary.org/obo/HP_0002625	'deep venous thrombosis'	false	1
+deep vein thrombosis	http://purl.obolibrary.org/obo/HP_0002625	'deep venous thrombosis'	false	1
+multiple deep venous thrombosis	http://purl.obolibrary.org/obo/HP_0002625	'deep venous thrombosis'	false	1
 human immunodeficiency virus	http://purl.obolibrary.org/obo/NCIT_C14219	'human immunodeficiency virus'	false	1
 virus\-hiv	http://purl.obolibrary.org/obo/NCIT_C14219	'human immunodeficiency virus'	false	1
 virus \(hiv\), human immunodeficiency	http://purl.obolibrary.org/obo/NCIT_C14219	'human immunodeficiency virus'	false	1
@@ -1263,13 +1266,13 @@ mixed sleep apneas	http://purl.obolibrary.org/obo/HP_0010535	'sleep apnea'	false
 obesity	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 having too much body fat	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 fat tissue increased	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
-adiposity	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
-obese \(finding\)	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
-obese	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
-adiposis	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 obésité	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
+adiposity	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 adiposité	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 adipose	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
+obese	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
+obese \(finding\)	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
+adiposis	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 leanness	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 overweight	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 lung cancer	http://purl.obolibrary.org/obo/DOID_1324	'lung cancer'	false	1
