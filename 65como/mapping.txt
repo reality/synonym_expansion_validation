@@ -1,5 +1,5 @@
 hypertension	HP
-heart disease	EFO
+ischemic heart disease	EFO
 atrial fibrillation	HP
 hyperlipidemia	HP
 peripheral vascular disease	DOID
