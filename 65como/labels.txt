@@ -1,4 +1,7 @@
 hypertension	http://purl.obolibrary.org/obo/HP_0000822	hypertension	false	1
+ischemic heart disease	http://purl.obolibrary.org/obo/NCIT_C50625	'ischemic heart disease'	false	1
+disease, ischemic heart	http://purl.obolibrary.org/obo/NCIT_C50625	'ischemic heart disease'	false	1
+heart disease, ischemic	http://purl.obolibrary.org/obo/NCIT_C50625	'ischemic heart disease'	false	1
 atrial fibrillation	http://purl.obolibrary.org/obo/HP_0005110	'atrial fibrillation'	false	1
 quivering upper heart chambers resulting in irregular heartbeat	http://purl.obolibrary.org/obo/HP_0005110	'atrial fibrillation'	false	1
 hyperlipidemia	http://purl.obolibrary.org/obo/HP_0003077	hyperlipidemia	false	1

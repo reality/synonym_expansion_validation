@@ -31,6 +31,9 @@ pressure blood increased	http://purl.obolibrary.org/obo/HP_0000822	hypertension	
 arterial pressure high	http://purl.obolibrary.org/obo/HP_0000822	hypertension	false	1
 hypertensive phenotype	http://purl.obolibrary.org/obo/HP_0000822	hypertension	false	1
 elevated blood pressure	http://purl.obolibrary.org/obo/HP_0000822	hypertension	false	1
+ischemic heart disease	http://purl.obolibrary.org/obo/NCIT_C50625	'ischemic heart disease'	false	1
+disease, ischemic heart	http://purl.obolibrary.org/obo/NCIT_C50625	'ischemic heart disease'	false	1
+heart disease, ischemic	http://purl.obolibrary.org/obo/NCIT_C50625	'ischemic heart disease'	false	1
 atrial fibrillation	http://purl.obolibrary.org/obo/HP_0005110	'atrial fibrillation'	false	1
 quivering upper heart chambers resulting in irregular heartbeat	http://purl.obolibrary.org/obo/HP_0005110	'atrial fibrillation'	false	1
 auricular fibrillation	http://purl.obolibrary.org/obo/HP_0005110	'atrial fibrillation'	false	1
@@ -1266,13 +1269,13 @@ mixed sleep apneas	http://purl.obolibrary.org/obo/HP_0010535	'sleep apnea'	false
 obesity	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 having too much body fat	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 fat tissue increased	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
-obésité	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 adiposity	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
+obese \(finding\)	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
+obese	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
+adiposis	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
+obésité	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 adiposité	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 adipose	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
-obese	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
-obese \(finding\)	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
-adiposis	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 leanness	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 overweight	http://purl.obolibrary.org/obo/HP_0001513	obesity	false	1
 lung cancer	http://purl.obolibrary.org/obo/DOID_1324	'lung cancer'	false	1
