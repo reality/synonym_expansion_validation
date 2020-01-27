@@ -1,0 +1,867 @@
+IRI	label	synonym	correct	1=correct 2=wrong 3=foreign/ambiguous
+http://purl.obolibrary.org/obo/HP_0002580	volvulus	twist of colon or intestine	1	
+http://purl.obolibrary.org/obo/HP_0002580	volvulus	torsion of colon or intestine	1	
+http://purl.obolibrary.org/obo/HP_0002580	volvulus	strangulation of colon or intestine	1	
+http://purl.obolibrary.org/obo/HP_0008513	bilateral conductive hearing impairment	conductive hearing loss, bilateral	1	
+http://purl.obolibrary.org/obo/HP_0012164	asterixis	liver flap	1	
+http://purl.obolibrary.org/obo/HP_0012164	asterixis	flapping tremor	1	
+http://purl.obolibrary.org/obo/HP_0005214	intestinal obstruction	ileus	1	
+http://purl.obolibrary.org/obo/HP_0005214	intestinal obstruction	gastrointestinal atony	1	
+http://purl.obolibrary.org/obo/HP_0005214	intestinal obstruction	obstruction, intestinal	1	
+http://purl.obolibrary.org/obo/HP_0005214	intestinal obstruction	small intestine obstruction	1	
+http://purl.obolibrary.org/obo/HP_0005214	intestinal obstruction	obstruction small intestine	1	are you happy with subcoponents of intenstine being blocked?
+http://purl.obolibrary.org/obo/HP_0005214	intestinal obstruction	gi tract obstruction	1	
+http://purl.obolibrary.org/obo/HP_0005214	intestinal obstruction	obstruction bowel	1	
+http://purl.obolibrary.org/obo/HP_0005214	intestinal obstruction	obstruction duodenal	1	
+http://purl.obolibrary.org/obo/HP_0005214	intestinal obstruction	colon obstruction	1	
+http://purl.obolibrary.org/obo/HP_0005214	intestinal obstruction	obstruction colon	1	
+http://purl.obolibrary.org/obo/HP_0005214	intestinal obstruction	obstruction intestinal	1	
+http://purl.obolibrary.org/obo/HP_0005214	intestinal obstruction	occlusion	2	
+http://purl.obolibrary.org/obo/HP_0005214	intestinal obstruction	pb d'occlusion	3	
+http://purl.obolibrary.org/obo/HP_0005214	intestinal obstruction	occlusion intestinale	3	
+http://purl.obolibrary.org/obo/HP_0031524	ampulla of vater carcinoma	carcinoma of ampulla of vater	1	
+http://purl.obolibrary.org/obo/HP_0031524	ampulla of vater carcinoma	ampullary carcinoma	1	
+http://purl.obolibrary.org/obo/HP_0031524	ampulla of vater carcinoma	ampulla of vater cancer	1	
+http://purl.obolibrary.org/obo/HP_0031524	ampulla of vater carcinoma	carcinoma of ampulla of vater \(disorder\)	1	
+http://purl.obolibrary.org/obo/HP_0031524	ampulla of vater carcinoma	carcinoma of hepatopancreatic ampulla	1	
+http://purl.obolibrary.org/obo/HP_0031524	ampulla of vater carcinoma	ampulloma	1	
+http://purl.obolibrary.org/obo/HP_0031524	ampulla of vater carcinoma	ampullary cancer	1	
+http://purl.obolibrary.org/obo/HP_0031524	ampulla of vater carcinoma	carcinoma of the ampulla of vater	1	
+http://purl.obolibrary.org/obo/HP_0031524	ampulla of vater carcinoma	hepatopancreatic ampulla carcinoma	1	
+http://purl.obolibrary.org/obo/HP_0012535	abnormal synaptic transmission	abnormal neurotransmission	1	guess so
+http://purl.obolibrary.org/obo/HP_0012535	abnormal synaptic transmission	phenotypic abnormality of neurotransmitter metabolic process	1	
+http://purl.obolibrary.org/obo/HP_0005815	supernumerary ribs	accessory rib	1	
+http://purl.obolibrary.org/obo/HP_0011508	macular hole	macular holes	1	
+http://purl.obolibrary.org/obo/HP_0008922	childhood\-onset short\-trunk short stature	disproportionate short stature \(short trunk\), identifiable in childhood	1	
+http://purl.obolibrary.org/obo/HP_0001040	multiple pterygia	pterygia, multiple	1	
+http://purl.obolibrary.org/obo/HP_0003119	abnormal circulating lipid concentration	abnormality of lipid metabolism	1	 
+http://purl.obolibrary.org/obo/HP_0003119	abnormal circulating lipid concentration	dyslipidemia	1	
+http://purl.obolibrary.org/obo/HP_0003119	abnormal circulating lipid concentration	abnormal circulating lipid level	1	
+http://purl.obolibrary.org/obo/HP_0003119	abnormal circulating lipid concentration	abnormal lipid metabolism	1	
+http://purl.obolibrary.org/obo/HP_0012440	abnormal biliary tract morphology	biliary tract dysplasia	1	
+http://purl.obolibrary.org/obo/HP_0025143	chills	rigors	2	
+http://purl.obolibrary.org/obo/HP_0025143	chills	rigor	2	chill plus shiver =rigor
+http://purl.obolibrary.org/obo/HP_0025143	chills	shivering	1	
+http://purl.obolibrary.org/obo/HP_0025143	chills	coldness general	1	
+http://purl.obolibrary.org/obo/HP_0025143	chills	chilliness	1	
+http://purl.obolibrary.org/obo/HP_0025143	chills	chill	1	
+http://purl.obolibrary.org/obo/HP_0025143	chills	shivered	1	
+http://purl.obolibrary.org/obo/HP_0007325	generalized dystonia	generalised dystonia	1	
+http://purl.obolibrary.org/obo/HP_0007325	generalized dystonia	fragments of torsion dystonia	2	
+http://purl.obolibrary.org/obo/HP_0007325	generalized dystonia	familial dystonia	2	not sysnonymous
+http://purl.obolibrary.org/obo/HP_0007325	generalized dystonia	dystonia deformans progressiva	2	
+http://purl.obolibrary.org/obo/HP_0100037	abnormality of the scalp hair	phenotypic abnormality of hair of head	11	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	pain pharynx	2	all these pharynx ones are not synonymous
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	throat sore	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	tonsillitis	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	dry and sore throat	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	sore throat	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	upper resp tract infection	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	local throat irritation	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	pain throat	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	edema pharynx	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	sore throat \- chronic	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	inflammation of throat	1	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	chronic sore throat	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	pharyngeal disease	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	inflamed throat	1	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	acute sore throat	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	persistent sore throat	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	throat inflammation	1	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	pharyngeal disorder	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	faringitis	3	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	faringite	3	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	pharyngite	3	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	pharyngitides	3	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	sore throats	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	throat, sore	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	irritation of the throat	2	
+http://purl.obolibrary.org/obo/HP_0025439	pharyngitis	pharynx inflammation	1	
+http://purl.obolibrary.org/obo/HP_0001708	right ventricular failure	failure, right ventricular	1	
+http://purl.obolibrary.org/obo/HP_0001708	right ventricular failure	ventricular failure, right	1	
+http://purl.obolibrary.org/obo/HP_0001708	right ventricular failure	heart failure, right\-sided	1	
+http://purl.obolibrary.org/obo/HP_0001708	right ventricular failure	défaillance cardiaque droite	3	
+http://purl.obolibrary.org/obo/HP_0001708	right ventricular failure	insuffisance cardiaque droite	3	
+http://purl.obolibrary.org/obo/HP_0001708	right ventricular failure	right heart failure	1	
+http://purl.obolibrary.org/obo/HP_0001708	right ventricular failure	cardiac failure right	1	
+http://purl.obolibrary.org/obo/HP_0001708	right ventricular failure	défaillance du coeur droit	3	
+http://purl.obolibrary.org/obo/HP_0001708	right ventricular failure	right\-sided heart failure syndrome	1	
+http://purl.obolibrary.org/obo/HP_0030983	ovarian thecoma	thecoma of ovary	1	
+http://purl.obolibrary.org/obo/HP_0030983	ovarian thecoma	theca cell tumor of the ovary	1	
+http://purl.obolibrary.org/obo/HP_0030983	ovarian thecoma	theca cell neoplasm of the ovary	1	
+http://purl.obolibrary.org/obo/HP_0030983	ovarian thecoma	theca cell tumor of ovary	1	
+http://purl.obolibrary.org/obo/HP_0030983	ovarian thecoma	ovarian theca cell neoplasm	1	
+http://purl.obolibrary.org/obo/HP_0030983	ovarian thecoma	thecoma of the ovary	1	
+http://purl.obolibrary.org/obo/HP_0030983	ovarian thecoma	theca cell neoplasm of ovary	1	
+http://purl.obolibrary.org/obo/HP_0030983	ovarian thecoma	ovarian theca cell tumor	1	
+http://purl.obolibrary.org/obo/HP_0030983	ovarian thecoma	ovary thecoma	1	
+http://purl.obolibrary.org/obo/HP_0410008	abnormality of the peripheral nervous system	phenotypic abnormality of peripheral nervous system	1	
+http://purl.obolibrary.org/obo/HP_0001841	preaxial foot polydactyly	preaxial polydactyly \(feet\)	1	
+http://purl.obolibrary.org/obo/HP_0025016	abnormal capillary morphology	abnormal morphology of capillary	1	
+http://purl.obolibrary.org/obo/HP_0025016	abnormal capillary morphology	abnormal capillaries	1	
+http://purl.obolibrary.org/obo/HP_0002020	gastroesophageal reflux	gastric reflux	1	
+http://purl.obolibrary.org/obo/HP_0002020	gastroesophageal reflux	esophageal reflux	1	
+http://purl.obolibrary.org/obo/HP_0002020	gastroesophageal reflux	reflux	1	
+http://purl.obolibrary.org/obo/HP_0002020	gastroesophageal reflux	gastric acid reflux	1	
+http://purl.obolibrary.org/obo/HP_0002020	gastroesophageal reflux	gastro esophageal reflux	1	
+http://purl.obolibrary.org/obo/HP_0002020	gastroesophageal reflux	reflux, gastro\-esophageal	1	
+http://purl.obolibrary.org/obo/HP_0002020	gastroesophageal reflux	gastro\-esophageal reflux	1	
+http://purl.obolibrary.org/obo/HP_0002020	gastroesophageal reflux	reflux, gastric acid	1	
+http://purl.obolibrary.org/obo/HP_0002020	gastroesophageal reflux	acid reflux, gastric	1	
+http://purl.obolibrary.org/obo/HP_0002020	gastroesophageal reflux	gastro\-oesophageal reflux	1	
+http://purl.obolibrary.org/obo/HP_0002020	gastroesophageal reflux	gastro oesophageal reflux	1	
+http://purl.obolibrary.org/obo/HP_0002020	gastroesophageal reflux	reflux, gastroesophageal	1	
+http://purl.obolibrary.org/obo/HP_0002020	gastroesophageal reflux	gastric acid reflux disease	1	
+http://purl.obolibrary.org/obo/HP_0002020	gastroesophageal reflux	reflux, gastro\-oesophageal	1	
+http://purl.obolibrary.org/obo/HP_0006743	embryonal rhabdomyosarcoma	myosarcoma	2	not synonymous
+http://purl.obolibrary.org/obo/HP_0006743	embryonal rhabdomyosarcoma	erms	1	
+http://purl.obolibrary.org/obo/HP_0006743	embryonal rhabdomyosarcoma	sarcoma botryoides	2	botyroides is a subtype of rhabdomyosarcoma - how do you want to deal with this?
+http://purl.obolibrary.org/obo/HP_0006743	embryonal rhabdomyosarcoma	botryoid sarcoma	2	botyroides is a subtype of rhabdomyosarcoma - how do you want to deal with this?
+http://purl.obolibrary.org/obo/HP_0006743	embryonal rhabdomyosarcoma	rhabdomyosarcomas, embryonal	1	
+http://purl.obolibrary.org/obo/HP_0006743	embryonal rhabdomyosarcoma	rhabdomyosarcoma, embryonal	1	
+http://purl.obolibrary.org/obo/HP_0006743	embryonal rhabdomyosarcoma	rhabdomyosarcoma, embryonal, type 1	1	not sure if what the type 1 is about
+http://purl.obolibrary.org/obo/HP_0006743	embryonal rhabdomyosarcoma	rhabdomyosarcome embryonnaire	3	
+http://purl.obolibrary.org/obo/HP_0006743	embryonal rhabdomyosarcoma	rabdomiossarcoma, embrionário	3	
+http://purl.obolibrary.org/obo/HP_0006743	embryonal rhabdomyosarcoma	rabdomiosarcoma embrionale	3	
+http://purl.obolibrary.org/obo/HP_0006743	embryonal rhabdomyosarcoma	rhabdomyosarkom, embryonales	3	
+http://purl.obolibrary.org/obo/HP_0006743	embryonal rhabdomyosarcoma	rabdomiosarcoma embrionario	3	
+http://purl.obolibrary.org/obo/HP_0001651	dextrocardia	heart predominantly in right hemithorax	1	
+http://purl.obolibrary.org/obo/HP_0001651	dextrocardia	dextrocardie	1	
+http://purl.obolibrary.org/obo/HP_0001651	dextrocardia	dextroversion du coeur	3	
+http://purl.obolibrary.org/obo/HP_0001651	dextrocardia	heart in right chest	1	
+http://purl.obolibrary.org/obo/HP_0001651	dextrocardia	destrocardia	1	
+http://purl.obolibrary.org/obo/HP_0001651	dextrocardia	dextrokardie	3	
+http://purl.obolibrary.org/obo/HP_0001651	dextrocardia	dextrocardia by ecg finding	1	
+http://purl.obolibrary.org/obo/HP_0001651	dextrocardia	dextrocardia by ekg finding	1	
+http://purl.obolibrary.org/obo/HP_0001009	telangiectasia	telangiectasis	1	
+http://purl.obolibrary.org/obo/HP_0001009	telangiectasia	spider veins	1	
+http://purl.obolibrary.org/obo/HP_0040162	orthokeratosis	orthokeratotic hyperkeratosis	1	
+http://purl.obolibrary.org/obo/HP_0010736	monostotic fibrous dysplasia	jaffe\-lichtenstein disease	1	
+http://purl.obolibrary.org/obo/HP_0010736	monostotic fibrous dysplasia	fibrous dysplasia, monostotic	1	
+http://purl.obolibrary.org/obo/HP_0010736	monostotic fibrous dysplasia	displasia fibrosa monostotica	3	
+http://purl.obolibrary.org/obo/HP_0010736	monostotic fibrous dysplasia	knochendysplasie, fibröse monostotische	3	
+http://purl.obolibrary.org/obo/HP_0010736	monostotic fibrous dysplasia	displasia fibrosa monostótica	3	
+http://purl.obolibrary.org/obo/HP_0010736	monostotic fibrous dysplasia	dysplasie fibreuse monostotique	3	
+http://purl.obolibrary.org/obo/HP_0010736	monostotic fibrous dysplasia	dysplasias, monostotic fibrous	1	
+http://purl.obolibrary.org/obo/HP_0010736	monostotic fibrous dysplasia	fibrous dysplasias, monostotic	1	
+http://purl.obolibrary.org/obo/HP_0010736	monostotic fibrous dysplasia	monostotic fibrous dysplasias	1	
+http://purl.obolibrary.org/obo/HP_0010736	monostotic fibrous dysplasia	dysplasia, monostotic fibrous	1	
+http://purl.obolibrary.org/obo/HP_0010736	monostotic fibrous dysplasia	monostotic fibrous dysplasia \(disease\)	1	
+http://purl.obolibrary.org/obo/HP_0010736	monostotic fibrous dysplasia	monostotic fibrous dysplasia of bone	1	
+http://purl.obolibrary.org/obo/HP_0012123	posterior uveitis	inflammation of chorioretinal region	1	
+http://purl.obolibrary.org/obo/HP_0012123	posterior uveitis	uveitis, posterior	1	
+http://purl.obolibrary.org/obo/HP_0012123	posterior uveitis	uveitis, posterior nos	3	
+http://purl.obolibrary.org/obo/HP_0012123	posterior uveitis	chorioretinal region inflammation	1	
+http://purl.obolibrary.org/obo/HP_0012123	posterior uveitis	uveitis, posteriore	3	
+http://purl.obolibrary.org/obo/HP_0012123	posterior uveitis	uveítis posterior	3	
+http://purl.obolibrary.org/obo/HP_0012123	posterior uveitis	uveíte posterior	3	
+http://purl.obolibrary.org/obo/HP_0012123	posterior uveitis	uveite posteriore	3	
+http://purl.obolibrary.org/obo/HP_0012123	posterior uveitis	uvéite postérieure	3	
+http://purl.obolibrary.org/obo/HP_0012123	posterior uveitis	coroiditis	1	
+http://purl.obolibrary.org/obo/HP_0012123	posterior uveitis	coroidite	3	
+http://purl.obolibrary.org/obo/HP_0012123	posterior uveitis	choroïdite	3	
+http://purl.obolibrary.org/obo/HP_0012123	posterior uveitis	choroid inflammation	1	
+http://purl.obolibrary.org/obo/HP_0011134	low\-grade fever	low grade fever	1	
+http://purl.obolibrary.org/obo/HP_0011134	low\-grade fever	low fever	1	
+http://purl.obolibrary.org/obo/HP_0011134	low\-grade fever	slight fever	1	
+http://purl.obolibrary.org/obo/HP_0011134	low\-grade fever	mild pyrexia	1	
+http://purl.obolibrary.org/obo/HP_0003493	antinuclear antibody positivity	antibodies, antinuclear	2	not synonymous  - one is positive
+http://purl.obolibrary.org/obo/HP_0200037	skin vesicle	vesicle	2	not synonymous
+http://purl.obolibrary.org/obo/HP_0410138	vibratory urticaria	dermodistortive urticaria	2	latter is a form of former but not synonymous
+http://purl.obolibrary.org/obo/HP_0410138	vibratory urticaria	vibratory angioedema	1	
+http://purl.obolibrary.org/obo/HP_0002870	obstructive sleep apnea	obstructive sleep apnoea	1	
+http://purl.obolibrary.org/obo/HP_0002870	obstructive sleep apnea	sleep apnea, obstructive	1	
+http://purl.obolibrary.org/obo/HP_0002870	obstructive sleep apnea	obstructive apnea	1	
+http://purl.obolibrary.org/obo/HP_0002870	obstructive sleep apnea	sleep apneas, obstructive	1	
+http://purl.obolibrary.org/obo/HP_0002870	obstructive sleep apnea	upper airway resistance sleep apnea syndrome	1	
+http://purl.obolibrary.org/obo/HP_0002870	obstructive sleep apnea	apneas, obstructive sleep	1	
+http://purl.obolibrary.org/obo/HP_0002870	obstructive sleep apnea	sleep apnea syndrome, obstructive	1	
+http://purl.obolibrary.org/obo/HP_0002870	obstructive sleep apnea	syndrome, upper airway resistance, sleep apnea	1	
+http://purl.obolibrary.org/obo/HP_0002870	obstructive sleep apnea	apnea, obstructive sleep	1	
+http://purl.obolibrary.org/obo/HP_0002870	obstructive sleep apnea	syndrome, sleep apnea, obstructive	1	
+http://purl.obolibrary.org/obo/HP_0031577	tessier number 5 facial cleft	fenda facial número 5 de tessier	3	
+http://purl.obolibrary.org/obo/HP_0031577	tessier number 5 facial cleft	fente faciale 5 de tessier	3	
+http://purl.obolibrary.org/obo/HP_0031577	tessier number 5 facial cleft	gesichtsspalte, tessier 5	3	
+http://purl.obolibrary.org/obo/HP_0031577	tessier number 5 facial cleft	hendidura facial número 5 de tessier	3	
+http://purl.obolibrary.org/obo/HP_0010525	finger agnosia	agnosie digitale	3	
+http://purl.obolibrary.org/obo/HP_0010525	finger agnosia	finger agnosia was seen	2	latter is positive, former phrase may be used in negative context
+http://purl.obolibrary.org/obo/HP_0010525	finger agnosia	finger agnosia \(disease\)	1	
+http://purl.obolibrary.org/obo/HP_0010525	finger agnosia	manual digit agnosia	1	
+http://purl.obolibrary.org/obo/HP_0001409	portal hypertension	hypertensions, portal	1	
+http://purl.obolibrary.org/obo/HP_0001409	portal hypertension	cruveilhier\-baumgarten syndrome	1	altough this syndrome is a form of PH where there is a bruit - how should we classify these?
+http://purl.obolibrary.org/obo/HP_0001409	portal hypertension	syndrome, cruveilhier\-baumgarten	1	
+http://purl.obolibrary.org/obo/HP_0001409	portal hypertension	cruveilhier baumgarten syndrome	1	
+http://purl.obolibrary.org/obo/HP_0001409	portal hypertension	hypertension, portal	1	
+http://purl.obolibrary.org/obo/HP_0001409	portal hypertension	portal venous hypertension	1	
+http://purl.obolibrary.org/obo/HP_0001409	portal hypertension	hipertensão portal	3	
+http://purl.obolibrary.org/obo/HP_0001409	portal hypertension	hipertensión portal	3	
+http://purl.obolibrary.org/obo/HP_0001409	portal hypertension	hypertension portale	3	
+http://purl.obolibrary.org/obo/HP_0001409	portal hypertension	portale hypertension	3	
+http://purl.obolibrary.org/obo/HP_0001409	portal hypertension	ipertensione portale	3	
+http://purl.obolibrary.org/obo/HP_0001409	portal hypertension	portal hypertensions	1	
+http://purl.obolibrary.org/obo/HP_0031589	suicidal ideation	suicidal thought	1	
+http://purl.obolibrary.org/obo/HP_0031589	suicidal ideation	ideations, suicidal	1	
+http://purl.obolibrary.org/obo/HP_0031589	suicidal ideation	ideation, suicidal	1	
+http://purl.obolibrary.org/obo/HP_0031589	suicidal ideation	suicidal, suicidal thoughts	1	
+http://purl.obolibrary.org/obo/HP_0031589	suicidal ideation	suicidal	1	
+http://purl.obolibrary.org/obo/HP_0031589	suicidal ideation	suicidal thoughts	1	
+http://purl.obolibrary.org/obo/HP_0006266	small placenta	reduced size of placenta	1	
+http://purl.obolibrary.org/obo/HP_0006266	small placenta	decreased placenta size	1	
+http://purl.obolibrary.org/obo/HP_0003689	multiple mitochondrial dna deletions	multiple mitochondrial dna \(mtdna\) deletions	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	frontocortical aphasia	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasia, broca	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasia, motor	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	broca's aphasias, agrammatic	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasia syndromes, verbal	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	broca aphasia, agrammatic	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	anterior aphasias	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasias, broca	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasia, expressive	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasias, agrammatic broca	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	dysphasia, broca	2	dys and aphasia not same
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	broca aphasias, agrammatic	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasias, anterior	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	verbal aphasia syndromes	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	verbal aphasia syndrome	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	agrammatic brocas aphasia	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	broca aphasia	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	broca's aphasia, agrammatic	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	agrammatic broca aphasia	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasia, agrammatic broca's	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	anterior aphasia	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	dysphasia, brocas	2	see above
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	broca dysphasia	2	see above
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasia, frontocortical	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	syndromes, verbal aphasia	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasia, agrammatic broca	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasia, anterior	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasias, agrammatic broca's	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasia, nonfluent	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	agrammatic broca's aphasias	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	broca aphasias	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	nonfluent aphasia	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasia syndrome, verbal	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	dysphasia, broca's	2	see above
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasia, ataxic	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	agrammatic broca's aphasia	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasias, frontocortical	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	broca's dysphasia	2	see above
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	syndrome, verbal aphasia	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	agrammatic broca aphasias	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	frontocortical aphasias	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	ataxic aphasias	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	aphasias, ataxic	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	agrammatism	1	
+http://purl.obolibrary.org/obo/HP_0002427	motor aphasia	ataxic aphasia	1	
+http://purl.obolibrary.org/obo/HP_0012193	anaplastic large\-cell lymphoma	lymphoma, large\-cell, anaplastic	1	
+http://purl.obolibrary.org/obo/HP_0010321	abnormality of the 4th toe	phenotypic abnormality of pedal digit 4	1	
+http://purl.obolibrary.org/obo/HP_0025575	abnormal superior vena cava morphology	abnormal precava morphology	1	
+http://purl.obolibrary.org/obo/HP_0025575	abnormal superior vena cava morphology	abnormal svc morphology	1	
+http://purl.obolibrary.org/obo/HP_0025575	abnormal superior vena cava morphology	abnormal superior caval vein morphology	1	
+http://purl.obolibrary.org/obo/HP_0020074	crystalluria	crystallization kidney	1	
+http://purl.obolibrary.org/obo/HP_0020074	crystalluria	urinary crystal, nos	1	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	diffuse ppk	1	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	diffuse palmoplantar hyperkeratosis	1	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	diffuse keratosis palmoplantaris	1	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	cheratoderma palmoplantare diffuso	3	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	kératodermie palmoplantaire diffuse	3	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	queratodermia palmoplantar difusa	3	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	palmoplantarkeratose, diffuse	3	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	ppk diffuse	1	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	kpp diffuse	2	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	ppk, diffuse	1	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	queratosis palmoplantar difusa	3	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	keratosis palmoplantaris diffusa	3	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	ppk difusa	3	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	ppk diffuso	3	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	palmoplantare hyperkeratose, diffuse	1	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	hyperkératose palmoplantaire diffuse	3	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	iperkeratosi palmoplantare diffusa	3	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	hiperqueratosis palmoplantar difusa	3	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	localized epidermolytic hyperkeratosis	2	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	keratoderma, palmoplantar, diffuse	1	
+http://purl.obolibrary.org/obo/HP_0007435	diffuse palmoplantar keratoderma	unna\-thost disease	1	latter is a type of former
+http://purl.obolibrary.org/obo/HP_0100627	displacement of the urethral meatus	displacement of the external urethral meatus	1	
+http://purl.obolibrary.org/obo/HP_0003761	calcinosis	pathologic calcification	1	
+http://purl.obolibrary.org/obo/HP_0003761	calcinosis	microcalcinoses	1	i don't know about this as calcinosis is pathological calcification
+http://purl.obolibrary.org/obo/HP_0003761	calcinosis	tumoral calcinoses	1	
+http://purl.obolibrary.org/obo/HP_0003761	calcinosis	microcalcification	1	i don't know about this as calcinosis is pathological calcification
+http://purl.obolibrary.org/obo/HP_0003761	calcinosis	calcification, pathologic	1	
+http://purl.obolibrary.org/obo/HP_0003761	calcinosis	calcinoses, tumoral	1	
+http://purl.obolibrary.org/obo/HP_0003761	calcinosis	calcinoses	1	
+http://purl.obolibrary.org/obo/HP_0003761	calcinosis	microcalcifications	1	i don't know about this as calcinosis is pathological calcification
+http://purl.obolibrary.org/obo/HP_0003761	calcinosis	pathologically calcified structure	1	
+http://purl.obolibrary.org/obo/HP_0003761	calcinosis	calcium deposit\(s\)	1	i don't know about this as calcinosis is pathological calcification
+http://purl.obolibrary.org/obo/HP_0003761	calcinosis	deposit\(s\), calcium	1	i don't know about this as calcinosis is pathological calcification
+http://purl.obolibrary.org/obo/HP_0003761	calcinosis	calcification	1	i don't know about this as calcinosis is pathological calcification
+http://purl.obolibrary.org/obo/HP_0003761	calcinosis	macrocalcification	1	
+http://purl.obolibrary.org/obo/HP_0006951	retrocerebellar cyst	cisti retrocerebellare	3	
+http://purl.obolibrary.org/obo/HP_0006951	retrocerebellar cyst	quisto retrocerebeloso	3	
+http://purl.obolibrary.org/obo/HP_0006951	retrocerebellar cyst	quiste retrocerebeloso	3	
+http://purl.obolibrary.org/obo/HP_0006951	retrocerebellar cyst	retrozerebelläre zyste	3	
+http://purl.obolibrary.org/obo/HP_0006951	retrocerebellar cyst	kyste rétrocérébelleux	3	
+http://purl.obolibrary.org/obo/HP_0011142	age\-related nuclear cataract	cataracta brunescens	3	
+http://purl.obolibrary.org/obo/HP_0011142	age\-related nuclear cataract	nuclear sclerosis cataract	1	
+http://purl.obolibrary.org/obo/HP_0012862	abnormal germ cell morphology	abnormal morphology of germ cell	1	
+http://purl.obolibrary.org/obo/HP_0012862	abnormal germ cell morphology	abnormally shaped of reproductive cell	1	
+http://purl.obolibrary.org/obo/HP_0012842	skin appendage neoplasm	cutaneous adnexal neoplasm	1	
+http://purl.obolibrary.org/obo/HP_0012842	skin appendage neoplasm	neoplasm of skin appendage	1	
+http://purl.obolibrary.org/obo/HP_0012842	skin appendage neoplasm	epidermal appendage neoplasm	1	
+http://purl.obolibrary.org/obo/HP_0012842	skin appendage neoplasm	adnexal tumor of skin	1	
+http://purl.obolibrary.org/obo/HP_0012842	skin appendage neoplasm	tumor of skin appendage	1	
+http://purl.obolibrary.org/obo/HP_0012842	skin appendage neoplasm	adnexal neoplasm of skin	1	
+http://purl.obolibrary.org/obo/HP_0012842	skin appendage neoplasm	neoplasm of the skin appendage	1	
+http://purl.obolibrary.org/obo/HP_0012842	skin appendage neoplasm	adnexal tumor of the skin	1	
+http://purl.obolibrary.org/obo/HP_0012842	skin appendage neoplasm	tumor of the skin appendage	1	
+http://purl.obolibrary.org/obo/HP_0012842	skin appendage neoplasm	adnexal neoplasm of the skin	1	
+http://purl.obolibrary.org/obo/HP_0012842	skin appendage neoplasm	skin appendage tumor	1	
+http://purl.obolibrary.org/obo/HP_0012842	skin appendage neoplasm	tumor of epidermal appendage	1	
+http://purl.obolibrary.org/obo/HP_0012842	skin appendage neoplasm	epidermal appendage tumor	1	
+http://purl.obolibrary.org/obo/HP_0012842	skin appendage neoplasm	neoplasm of epidermal appendage	1	
+http://purl.obolibrary.org/obo/HP_0012031	lipomatous tumor	lipoma	1	
+http://purl.obolibrary.org/obo/HP_0012031	lipomatous tumor	tumor of adipose tissue	1	
+http://purl.obolibrary.org/obo/HP_0012031	lipomatous tumor	benign tumor of adipose tissue	1	
+http://purl.obolibrary.org/obo/HP_0100588	paraphimosis	paraphimoses	3	is this a forein language
+http://purl.obolibrary.org/obo/HP_0010471	oligosacchariduria	oligosaccharidurie	3	
+http://purl.obolibrary.org/obo/HP_0010471	oligosacchariduria	oligosaccharidose	3	
+http://purl.obolibrary.org/obo/HP_0010471	oligosacchariduria	oligosacaduria	3	
+http://purl.obolibrary.org/obo/HP_0010471	oligosacchariduria	oligosacariduria	3	not sure about this
+http://purl.obolibrary.org/obo/HP_0010471	oligosacchariduria	oligosaccariduria	1	
+http://purl.obolibrary.org/obo/HP_0001913	granulocytopenia	agranulocytosis	1	
+http://purl.obolibrary.org/obo/HP_0001913	granulocytopenia	decreased granulocyte number	1	
+http://purl.obolibrary.org/obo/HP_0001913	granulocytopenia	reduced granulocyte number	1	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	hereditary cranium bifidum	1	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	fenestrae parietales symmetricae	3	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	catlin marks	1	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	caitlin marks	1	misspelling
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	foramina parietalia permagna	1	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	cranium bifidum occultum	1	former is part of latter complex
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	pfm1	1	omim
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	cranium bifidum, hereditary	1	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	foramina parietalia	1	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	foramina parietal	1	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	forami parietali	3	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	foramen pariétal	3	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	foramen parietal ampliado	3	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	segni di catlin	3	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	enlarged parietal foramina	1	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	forami parietali allargati	3	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	cráneo bífido hereditario	3	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	marcas de catlin	3	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	cranio bifido ereditario	3	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	marques de catlin	3	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	crâne bifide héréditaire	3	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	cranium bifidum, hereditäres	3	
+http://purl.obolibrary.org/obo/HP_0002697	parietal foramina	foramina parietal permagna	1	
+http://purl.obolibrary.org/obo/HP_0000480	retinal coloboma	retina coloboma	1	
+http://purl.obolibrary.org/obo/HP_0000480	retinal coloboma	coloboma of the retina	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	hyponatrémie	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	sodium sanguin diminué	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	salt deficiency	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	low sodium syndrome	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	deperdition sodique	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	syndrome lie a deficience en sel	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	na\+ depletion	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	hyponatraemic syndrome	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	sodium depletion	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	sodium sérique diminué	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	syndrome hyponatremique	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	sodium deficiency	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	sodium, decreased level	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	diminution de la natremie	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	blood sodium decreased	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	déplétion sodée	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	deficit en sel	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	serum sodium decreased	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	sodium \(na\) deficiency	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	syndrome hyposodique	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	syndrome de carence en sel	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	déplétion de na\+	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	déficit en sodium \(na\)	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	syndrome low salt	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	hiponatremia	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	hypernatriämie	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	iponatriemia	3	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	low salt syndrome	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	salt depletion	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	hyponatraemia	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	sodium blood decreased	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	decreased circulating sodium level	1	
+http://purl.obolibrary.org/obo/HP_0002902	hyponatremia	reduced circulating sodium level	1	
+http://purl.obolibrary.org/obo/HP_0011456	absent stapes	missing stapes	1	
+http://purl.obolibrary.org/obo/HP_0025509	piezogenic pedal papules	piezogenic papules	1	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	goitre congenital	1	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	thyroid enlarged	1	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	hypertrophie thyroïdienne	3	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	enlargement under adam's apple	1	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	thyroid enlargement	1	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	thyromegaly	1	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	enlarged thyroid gland	1	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	thyromégalie	3	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	struma of thyroid	2	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	strume	2	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	goitre \(sf t85 t86\)	1	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	augmentation volume thyroide	1	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	struma	2	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	swelling of thyroid gland	1	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	kropf	3	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	gozzo	3	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	bocio	3	
+http://purl.obolibrary.org/obo/HP_0000853	goiter	bócio	3	
+http://purl.obolibrary.org/obo/HP_0008035	retinitis pigmentosa inversa	retinitis pigmentosa	1	former is a variant of latter
+http://purl.obolibrary.org/obo/HP_0012114	endometrial carcinoma	carcinoma of the endometrium	1	
+http://purl.obolibrary.org/obo/HP_0012114	endometrial carcinoma	endometrioid carcinoma of female reproductive system	1	
+http://purl.obolibrary.org/obo/HP_0012114	endometrial carcinoma	endometrioid carcinoma	1	
+http://purl.obolibrary.org/obo/HP_0012114	endometrial carcinoma	carcinoma of endometrium	1	
+http://purl.obolibrary.org/obo/HP_0012114	endometrial carcinoma	endometrium carcinoma	1	
+http://purl.obolibrary.org/obo/HP_0012114	endometrial carcinoma	carcinoma, endometrial, malignant	1	
+http://purl.obolibrary.org/obo/HP_0012114	endometrial carcinoma	endometrial cancer	1	
+http://purl.obolibrary.org/obo/HP_0012114	endometrial carcinoma	endometrial neoplasms	1	
+http://purl.obolibrary.org/obo/HP_0012114	endometrial carcinoma	uterine carcinoma	1	
+http://purl.obolibrary.org/obo/HP_0012114	endometrial carcinoma	adenocarcinoma endometrial	1	
+http://purl.obolibrary.org/obo/HP_0012114	endometrial carcinoma	carcinoma corpus uteri	1	
+http://purl.obolibrary.org/obo/HP_0012114	endometrial carcinoma	carcinoma body of uterus	1	
+http://purl.obolibrary.org/obo/HP_0012114	endometrial carcinoma	carcinoma endometrial	1	
+http://purl.obolibrary.org/obo/HP_0012114	endometrial carcinoma	endometrial neoplasm malignant	1	
+http://purl.obolibrary.org/obo/HP_0012114	endometrial carcinoma	corpus uteri carcinoma	1	
+http://purl.obolibrary.org/obo/HP_0030404	glucagonoma	glucagonome	3	
+http://purl.obolibrary.org/obo/HP_0030404	glucagonoma	glucagonom	3	
+http://purl.obolibrary.org/obo/HP_0030404	glucagonoma	tumors, alpha\-cell	1	
+http://purl.obolibrary.org/obo/HP_0030404	glucagonoma	adenoma, alpha\-cell	1	
+http://purl.obolibrary.org/obo/HP_0030404	glucagonoma	adenoma, alpha cell	1	
+http://purl.obolibrary.org/obo/HP_0030404	glucagonoma	alpha\-cell adenomas	1	
+http://purl.obolibrary.org/obo/HP_0030404	glucagonoma	alpha\-cell tumor	1	
+http://purl.obolibrary.org/obo/HP_0030404	glucagonoma	alpha\-cell tumors	1	
+http://purl.obolibrary.org/obo/HP_0030404	glucagonoma	alpha cell tumor	1	
+http://purl.obolibrary.org/obo/HP_0030404	glucagonoma	alpha\-cell adenoma	1	
+http://purl.obolibrary.org/obo/HP_0030404	glucagonoma	adenomas, alpha\-cell	1	
+http://purl.obolibrary.org/obo/HP_0030404	glucagonoma	tumor, alpha\-cell	1	
+http://purl.obolibrary.org/obo/HP_0012143	abnormal megakaryocyte morphology	megakaryocyte abnormalities	1	
+http://purl.obolibrary.org/obo/HP_0012143	abnormal megakaryocyte morphology	abnormal megalocaryocyte morphology	1	
+http://purl.obolibrary.org/obo/HP_0012143	abnormal megakaryocyte morphology	abnormal megacaryocyte morphology	1	
+http://purl.obolibrary.org/obo/HP_0012143	abnormal megakaryocyte morphology	abnormal megalokaryocyte morphology	1	
+http://purl.obolibrary.org/obo/HP_0007437	multiple cutaneous leiomyomas	leiomyoma, multiple cutaneous	1	
+http://purl.obolibrary.org/obo/HP_0100729	large face	enlarged face	1	
+http://purl.obolibrary.org/obo/HP_0100729	large face	enlarged faces	1	
+http://purl.obolibrary.org/obo/HP_0100729	large face	big faces	1	
+http://purl.obolibrary.org/obo/HP_0100729	large face	increased facial size	1	
+http://purl.obolibrary.org/obo/HP_0100729	large face	increased face size	1	
+http://purl.obolibrary.org/obo/HP_0100729	large face	großes gesicht	3	
+http://purl.obolibrary.org/obo/HP_0100729	large face	face larga	1	
+http://purl.obolibrary.org/obo/HP_0100729	large face	face large	1	
+http://purl.obolibrary.org/obo/HP_0100729	large face	cara grande	3	
+http://purl.obolibrary.org/obo/HP_0100729	large face	faccia larga	3	
+http://purl.obolibrary.org/obo/HP_0011952	acute aspiration pneumonia	pneumonia, aspiration	1	
+http://purl.obolibrary.org/obo/HP_0001939	abnormality of metabolism/homeostasis	abnormal metabolism	1	
+http://purl.obolibrary.org/obo/HP_0001939	abnormality of metabolism/homeostasis	metabolic abnormalities	1	
+http://purl.obolibrary.org/obo/HP_0001939	abnormality of metabolism/homeostasis	abnormal metabolic process	1	
+http://purl.obolibrary.org/obo/HP_0005453	absent/hypoplastic paranasal sinuses	aplasia/hypoplasia involving the sinuses	1	
+http://purl.obolibrary.org/obo/HP_0012218	alveolar soft part sarcoma	alveolar soft\-part sarcoma	1	
+http://purl.obolibrary.org/obo/HP_0012218	alveolar soft part sarcoma	sarcoma, alveolar soft part	1	
+http://purl.obolibrary.org/obo/HP_0012218	alveolar soft part sarcoma	asps	1	
+http://purl.obolibrary.org/obo/HP_0012218	alveolar soft part sarcoma	adult alveolar soft\-part sarcoma	1	
+http://purl.obolibrary.org/obo/HP_0012218	alveolar soft part sarcoma	adult alveolar soft part sarcoma	1	
+http://purl.obolibrary.org/obo/HP_0012218	alveolar soft part sarcoma	alveolar soft part sarcoma \(disease\)	1	
+http://purl.obolibrary.org/obo/HP_0012218	alveolar soft part sarcoma	pediatric alveolar soft part sarcoma	1	
+http://purl.obolibrary.org/obo/HP_0012218	alveolar soft part sarcoma	childhood alveolar soft part sarcoma	1	
+http://purl.obolibrary.org/obo/HP_0012218	alveolar soft part sarcoma	childhood alveolar soft\-part sarcoma	1	
+http://purl.obolibrary.org/obo/HP_0012478	temporomandibular joint ankylosis	tmj ankylosis	1	
+http://purl.obolibrary.org/obo/HP_0012478	temporomandibular joint ankylosis	fusion of the jaw joint	1	
+http://purl.obolibrary.org/obo/HP_0007976	cerulean cataract	blue\-dot cataract	1	
+http://purl.obolibrary.org/obo/HP_0007976	cerulean cataract	katarakt, zölinblaue	3	
+http://purl.obolibrary.org/obo/HP_0007976	cerulean cataract	catarata cerúlea	3	
+http://purl.obolibrary.org/obo/HP_0007976	cerulean cataract	cataracte céruléenne	3	
+http://purl.obolibrary.org/obo/HP_0007976	cerulean cataract	cataratta cerulea	3	
+http://purl.obolibrary.org/obo/HP_0007976	cerulean cataract	cataract, congenital, blue dot type, 1	1	
+http://purl.obolibrary.org/obo/HP_0007976	cerulean cataract	cataract, congenital, cerulean type 1	1	
+http://purl.obolibrary.org/obo/HP_0007976	cerulean cataract	cataract, congenital, cerulean type, 1	1	
+http://purl.obolibrary.org/obo/HP_0007976	cerulean cataract	cataract, congenital, blue dot type 1	1	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	fab m3		
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	aml with t\(15;17\)\(q22;q12\);\(pml/raralpha\) and variants		
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	acute myeloid leukemia with t\(15;17\)\(q22;q12\);\(pml/raralpha\) and variants		
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	aml m3		
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	acute myeloblastic leukemia type 3		
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	acute myeloid leukemia m3		
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	apml	1	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	acute myeloblastic leukemia 3		
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	aml with t\(15;17\)\(q22;q12\)		
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	promyelocytic leukemia	1	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	leukemia, promyelocytic, acute	1	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	leukemia, acute promyelocytic	1	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	aml me with t\(15;17\) and variants		
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	leucemia promielocítica aguda	3	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	promyelozytenleukämie, akute	3	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	leucemia aguda promielocítica	3	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	leucémie aiguë promyélocytaire	3	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	leucemia promielocitica acuta	3	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	leucemia mieloblastica acuta, tipo 3	3	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	leucemia mieloide acuta con t\(15;17\) \(q22;q12\); \(pml/raralpha\) e varianti	3	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	leukämie, akute myeloische, typ 3	3	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	leucémie aiguë myéloblastique type 3	3	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	leucemia aguda mieloblástica tipo 3	3	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	leucemia aguda mieloide con t\(15;17\)\(q22;q12\);\(pml/raralpha\) y variantes	3	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	leukämie, akute myeloische, t\(15;17\)\(q22;q12\);\(pml/raralpha\) und varianten'	3	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	leucémie aiguë myéloïde avec t\(15;17\)\(q22;q12\);\(pml/raralpha\) et variants	3	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	leucemia mieloblástica aguda tipo 3	3	
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	acute promyelocytic leukaemia		
+http://purl.obolibrary.org/obo/HP_0004836	acute promyelocytic leukemia	increased acute promyelocytic leukemia incidence		
+http://purl.obolibrary.org/obo/HP_0001507	growth abnormality	phenotypic abnormality of growth	1	
+http://purl.obolibrary.org/obo/HP_0001507	growth abnormality	abnormal postnatal growth	1	
+http://purl.obolibrary.org/obo/HP_0001507	growth abnormality	abnormal growth after birth	1	
+http://purl.obolibrary.org/obo/HP_0010824	abnormal fifth cranial nerve morphology	abnormality of the trigeminal nerve	1	
+http://purl.obolibrary.org/obo/HP_0010824	abnormal fifth cranial nerve morphology	phenotypic abnormality of trigeminal nerve	1	
+http://purl.obolibrary.org/obo/HP_0002875	exertional dyspnea	exertional dyspnoea	1	
+http://purl.obolibrary.org/obo/HP_0002875	exertional dyspnea	dyspnoea on effort	1	
+http://purl.obolibrary.org/obo/HP_0002875	exertional dyspnea	breathlessness on exertion	1	
+http://purl.obolibrary.org/obo/HP_0002875	exertional dyspnea	dyspnea on effort	1	
+http://purl.obolibrary.org/obo/HP_0002732	lymph node hypoplasia	hypoplastic lymph nodes	1	
+http://purl.obolibrary.org/obo/HP_0002732	lymph node hypoplasia	decreased lymph node cellularity	1	
+http://purl.obolibrary.org/obo/HP_0002732	lymph node hypoplasia	small lymph nodes	1	
+http://purl.obolibrary.org/obo/HP_0007707	congenital aphakia	congenital absence of lens	1	
+http://purl.obolibrary.org/obo/HP_0007707	congenital aphakia	aphakia, congenital primary	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	juvenile arthritis	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	still's disease	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	pauciarticular juvenile arthritis		
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	pauciarticular onset juvenile chronic arthritis		
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	juvenile chronic polyarthritis	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	arthritis, juvenile rheumatoid	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	arthritis, juvenile	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	juvenile\-onset stills disease	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	still disease, juvenile onset	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	still disease, juvenile\-onset	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	juvenile psoriatic arthritis	2	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	juvenile oligoarthritis	1	i think linked
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	juvenile\-onset still's disease	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	juvenile systemic arthritis	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	juvenile onset stills disease	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	juvenile chronic arthritis	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	juvenile enthesitis\-related arthritis	2	i think this is linked to ank spon
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	stills disease, juvenile\-onset	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	juvenile onset still disease	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	still's disease, juvenile onset	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	juvenile\-onset still disease	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	still's disease, juvenile\-onset	1	
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	chronic childhood arthritis	1	former is type of latter
+http://purl.obolibrary.org/obo/HP_0005681	juvenile rheumatoid arthritis	juvenile rheumatoid arthritis \(aq\)	1	
+http://purl.obolibrary.org/obo/HP_0010459	true hermaphroditism	hermaphroditism	1	
+http://purl.obolibrary.org/obo/HP_0010459	true hermaphroditism	ovotestis	1	
+http://purl.obolibrary.org/obo/HP_0012887	ovarian serous cystadenoma	cystadenoma, serous	1	
+http://purl.obolibrary.org/obo/HP_0012887	ovarian serous cystadenoma	serous cystadenoma of ovary	1	
+http://purl.obolibrary.org/obo/HP_0012887	ovarian serous cystadenoma	benign serous cystadenoma of ovary	1	
+http://purl.obolibrary.org/obo/HP_0012887	ovarian serous cystadenoma	serous cystadenoma of the ovary	1	
+http://purl.obolibrary.org/obo/HP_0012887	ovarian serous cystadenoma	benign serous cystadenoma of the ovary	1	
+http://purl.obolibrary.org/obo/HP_0410133	chronic idiopathic urticaria	idiopathic urticaria, chronic	1	
+http://purl.obolibrary.org/obo/HP_0100015	stahl ear	antihelix	1	
+http://purl.obolibrary.org/obo/HP_0030442	anal margin squamous cell carcinoma	squamous cell carcinoma of the anal margin	1	
+http://purl.obolibrary.org/obo/HP_0030442	anal margin squamous cell carcinoma	squamous cell carcinoma of anal margin	1	
+http://purl.obolibrary.org/obo/HP_0030442	anal margin squamous cell carcinoma	perianal skin squamous cell carcinoma	1	
+http://purl.obolibrary.org/obo/HP_0001537	umbilical hernia	hernia umbilical	1	
+http://purl.obolibrary.org/obo/HP_0001537	umbilical hernia	ernia ombelicale	3	
+http://purl.obolibrary.org/obo/HP_0001537	umbilical hernia	hérnia umbilical	3	
+http://purl.obolibrary.org/obo/HP_0001537	umbilical hernia	nabelbruch/nabelhernie	3	
+http://purl.obolibrary.org/obo/HP_0001537	umbilical hernia	hernie ombilicale	3	
+http://purl.obolibrary.org/obo/HP_0001537	umbilical hernia	hernia, umbilical	1	
+http://purl.obolibrary.org/obo/HP_0001537	umbilical hernia	umbilical hernias	1	
+http://purl.obolibrary.org/obo/HP_0001537	umbilical hernia	omphaloceles	3	
+http://purl.obolibrary.org/obo/HP_0001537	umbilical hernia	omphalocele	3	
+http://purl.obolibrary.org/obo/HP_0001537	umbilical hernia	hernias, umbilical	1	
+http://purl.obolibrary.org/obo/HP_0001537	umbilical hernia	exomphalos	1	
+http://purl.obolibrary.org/obo/HP_0550004	verruca plana	verrue plane	3	
+http://purl.obolibrary.org/obo/HP_0005150	abnormal atrioventricular conduction	atrioventricular conduction disturbances	1	
+http://purl.obolibrary.org/obo/HP_0011726	persistent fetal circulation	persistent pulmonary hypertension of the newborn	1	
+http://purl.obolibrary.org/obo/HP_0011726	persistent fetal circulation	pphn	1	
+http://purl.obolibrary.org/obo/HP_0011726	persistent fetal circulation	delayed closure of ductus arteriosus	1	
+http://purl.obolibrary.org/obo/HP_0011726	persistent fetal circulation	\(persistent\) pulmonary hypertension of newborn	1	
+http://purl.obolibrary.org/obo/HP_0000689	dental malocclusion	malokklusion/fehlbiss	3	
+http://purl.obolibrary.org/obo/HP_0000689	dental malocclusion	mala oclusión dental	3	
+http://purl.obolibrary.org/obo/HP_0000689	dental malocclusion	má oclusão dentária	3	
+http://purl.obolibrary.org/obo/HP_0000689	dental malocclusion	mauvais articulé dentaire/inversion de l'articulé dentaire/malocclusion	3	
+http://purl.obolibrary.org/obo/HP_0000689	dental malocclusion	malocclusione dentale	3	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	thromboembolism, pulmonary	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	embolism, pulmonary	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	embolisms, pulmonary	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	pulmonary thromboembolism	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	pulmonary thromboembolisms	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	thromboembolisms, pulmonary	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	pulm embolisms	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	pulmonary artery embolism	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	pulm embolism	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	embolisms pulm	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	pulm thromboembolisms	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	b	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	thromboembolisms pulm	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	pulmonary embolus	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	pulm thromboembolism	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	pulmonary artery thrombosis	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	pulmonary artery thromboembolism	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	embolie pulmonaire	3	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	embolie	3	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	migration d'un thrombus intra pulmonaire	3	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	pulmonary circulation obstruction	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	pulmonary infarction	1	
+http://purl.obolibrary.org/obo/HP_0002204	pulmonary embolism	blood clots in the lung	1	
+http://purl.obolibrary.org/obo/HP_0012090	abnormal pancreas morphology	abnormal morphology of pancreas	1	
+http://purl.obolibrary.org/obo/HP_0012090	abnormal pancreas morphology	pancreas dysplasia	1	
+http://purl.obolibrary.org/obo/HP_0012090	abnormal pancreas morphology	pancreatic dysplasia	1	
+http://purl.obolibrary.org/obo/HP_0000953	hyperpigmentation of the skin	hyperpigmentierung der haut	3	
+http://purl.obolibrary.org/obo/HP_0000953	hyperpigmentation of the skin	iperpigmentazione	3	
+http://purl.obolibrary.org/obo/HP_0000953	hyperpigmentation of the skin	hiperpigmentación	3	
+http://purl.obolibrary.org/obo/HP_0000953	hyperpigmentation of the skin	hiperpigmentação cutânea	3	
+http://purl.obolibrary.org/obo/HP_0000953	hyperpigmentation of the skin	hyperpigmentation cutanée	3	
+http://purl.obolibrary.org/obo/HP_0031287	seborrheic keratosis	keratosis seborrheica	1	
+http://purl.obolibrary.org/obo/HP_0031287	seborrheic keratosis	keratosis, seborrheic	1	
+http://purl.obolibrary.org/obo/HP_0031287	seborrheic keratosis	seborrheic wart	1	
+http://purl.obolibrary.org/obo/HP_0031287	seborrheic keratosis	verruca seborrheica	1	
+http://purl.obolibrary.org/obo/HP_0031287	seborrheic keratosis	basosquamous papilloma	1	
+http://purl.obolibrary.org/obo/HP_0003021	metaphyseal cupping	cup\-shaped metaphyses	1	
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	ataxia	1	former ytpe of latter
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	tremors, rubral	2	latter is due to direct damage to cerebellum
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	rubral tremor	2	latter is due to direct damage to cerebellum
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	impairment, coordination	1	former associated with latter
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	incoordination	1	former associated with latter
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	dyssynergia	1	
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	lack of coordination	1	former associated with latter
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	coordination impairment	1	former associated with latter
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	ataxy	1	
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	coordination impairments	1	former associated with latter
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	incoordinations	1	former associated with latter
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	impairments, coordination	1	former associated with latter
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	dyscoordination	1	former associated with latter
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	coordination lack	1	former associated with latter
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	rubral tremors	2	latter is due to direct damage to cerebellum
+http://purl.obolibrary.org/obo/HP_0010871	sensory ataxia	tremor, rubral	2	latter is due to direct damage to cerebellum
+http://purl.obolibrary.org/obo/HP_0400007	polymenorrhea	unusually frequent menses	1	
+http://purl.obolibrary.org/obo/HP_0400007	polymenorrhea	polymenorrhoea	1	
+http://purl.obolibrary.org/obo/HP_0011269	bifid tragus	hyperplastic tragus	2	
+http://purl.obolibrary.org/obo/HP_0011269	bifid tragus	hypertrophic tragus	2	
+http://purl.obolibrary.org/obo/HP_0100526	neoplasm of the lung	lung neoplasms	1	
+http://purl.obolibrary.org/obo/HP_0008465	absent vertebra	missing vertebra	1	
+http://purl.obolibrary.org/obo/HP_0008465	absent vertebra	absent vertebrae	1	
+http://purl.obolibrary.org/obo/HP_0004689	short fourth metatarsal	short fourth metatarsals	1	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	fetal ventriculomegaly	1	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	fetal cerebral ventriculomegaly	1	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	cerebral ventriculomegaly	1	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	cerebral ventriculomegaly, fetal	1	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	aqueductal stenosis	1	latter is cause of former
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	ventriculomegaly, cerebral	1	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	ventriculomegaly, fetal cerebral	1	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	stenoses, aqueductal	1	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	aqueductal stenoses	1	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	cerebral ventriculomegalies, fetal	3	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	stenosis, aqueductal	1	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	ventriculomegalies, fetal cerebral	3	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	ventriculomegalies, cerebral	3	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	fetal cerebral ventriculomegalies	3	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	cerebral ventriculomegalies	3	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	hydrocéphalie	3	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	hydrencephaly	3	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	hydrencephalus	3	
+http://purl.obolibrary.org/obo/HP_0000238	hydrocephalus	water on the brain	1	
+http://purl.obolibrary.org/obo/HP_0030880	raynaud phenomenon	raynaud disease	1	
+http://purl.obolibrary.org/obo/HP_0030880	raynaud phenomenon	raynaud's disease	1	
+http://purl.obolibrary.org/obo/HP_0030880	raynaud phenomenon	phenomenon, raynauds	1	
+http://purl.obolibrary.org/obo/HP_0030880	raynaud phenomenon	raynauds phenomenon	1	
+http://purl.obolibrary.org/obo/HP_0030880	raynaud phenomenon	raynauds disease	1	
+http://purl.obolibrary.org/obo/HP_0030880	raynaud phenomenon	cold fingers, hereditary	1	
+http://purl.obolibrary.org/obo/HP_0012190	t\-cell lymphoma	lymphoma, t\-cell	1	
+http://purl.obolibrary.org/obo/HP_0012190	t\-cell lymphoma	t\-cell non\-hodgkin lymphoma	1	
+http://purl.obolibrary.org/obo/HP_0012190	t\-cell lymphoma	t\-cell and nk\-cell non\-hodgkin lymphoma	1	
+http://purl.obolibrary.org/obo/HP_0012190	t\-cell lymphoma	t\-cell and nk\-cell non\-hodgkin's lymphoma	1	
+http://purl.obolibrary.org/obo/HP_0012190	t\-cell lymphoma	t\-cell nhl	1	latter form of former
+http://purl.obolibrary.org/obo/HP_0012190	t\-cell lymphoma	non\-hodgkin's t\-cell lymphoma	1	latter form of former
+http://purl.obolibrary.org/obo/HP_0012190	t\-cell lymphoma	t\-cell non\-hodgkin's lymphoma	1	latter form of former
+http://purl.obolibrary.org/obo/HP_0000124	renal tubular dysfunction	renal tubular disease	1	
+http://purl.obolibrary.org/obo/HP_0001262	excessive daytime somnolence	somnolence excessive diurne	3	
+http://purl.obolibrary.org/obo/HP_0001262	excessive daytime somnolence	excessive daytime sleepiness \(eds\)	1	
+http://purl.obolibrary.org/obo/HP_0001262	excessive daytime somnolence	excessive daytime sleepiness	1	
+http://purl.obolibrary.org/obo/HP_0001262	excessive daytime somnolence	somnolence	1	
+http://purl.obolibrary.org/obo/HP_0001262	excessive daytime somnolence	sleepiness	2	not synonymous
+http://purl.obolibrary.org/obo/HP_0200037	skin vesicle	vesicle	2	
+http://purl.obolibrary.org/obo/HP_0003881	humeral sclerosis	sclerosis \(humeral\)		
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pinealocytoma	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	benign pinealoma	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineozytom	3	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineocitoma	3	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pinéocytome	3	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	adult pineocytoma	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineocytoma \(disease\)	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineocytoma, benign	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineocytoma \(who grade i\)	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pinealoma	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	mixed pineocytoma pineoblastoma	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	mixed pineocytoma\-pineoblastoma	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineal gland tumor	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineocytomas	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	tumors, pineal gland	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineal parenchymal tumor	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	tumor, pineal	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	mixed pineocytoma\-pineoblastomas	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineal gland tumors	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pinealocytomas	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	tumors, pineal	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineocytoma\-pineoblastoma, mixed	1	closely related - ?ok to call synonymoud
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	tumor, pineal parenchymal	1	closely related - ?ok to call synonymoud
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineal parenchymal tumors	1	closely related - ?ok to call synonymoud
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineal neoplasms	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineal tumor	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineoblastoma	1	closely related - ?ok to call synonymoud
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	tumor, pineal gland	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	neoplasm, pineal	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineoblastomas	1	closely related - ?ok to call synonymoud
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineal tumors	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineal neoplasm	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	pineocytoma\-pineoblastomas, mixed	1	closely related
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	neoplasms, pineal	1	
+http://purl.obolibrary.org/obo/HP_0030407	pineocytoma	tumors, pineal parenchymal	1	closely related
+http://purl.obolibrary.org/obo/HP_0001177	preaxial hand polydactyly	radial polydactyly	1	
+http://purl.obolibrary.org/obo/HP_0001177	preaxial hand polydactyly	preaxial polydactyly \(hands\)	1	
+http://purl.obolibrary.org/obo/HP_0000480	retinal coloboma	retina coloboma	1	
+http://purl.obolibrary.org/obo/HP_0000480	retinal coloboma	coloboma of the retina	1	
+http://purl.obolibrary.org/obo/HP_0000873	diabetes insipidus	diabetes nephrogenic \(excludes glycosuria\)	1	
+http://purl.obolibrary.org/obo/HP_0000873	diabetes insipidus	diabete insipido	3	
+http://purl.obolibrary.org/obo/HP_0000873	diabetes insipidus	diabète insipide	3	
+http://purl.obolibrary.org/obo/HP_0000873	diabetes insipidus	diabetes insípida	3	
+http://purl.obolibrary.org/obo/HP_0000873	diabetes insipidus	antidiuretic hormone defective syndrome		dont know what to put for this as thee is a condition called siadh which is separete to DI but has same clinical consequences
+http://purl.obolibrary.org/obo/HP_0001254	lethargy	listless	1	
+http://purl.obolibrary.org/obo/HP_0001254	lethargy	torpor	1	
+http://purl.obolibrary.org/obo/HP_0001254	lethargy	listlessness	1	
+http://purl.obolibrary.org/obo/HP_0001254	lethargy	torpidity	1	
+http://purl.obolibrary.org/obo/HP_0001254	lethargy	languor	1	
+http://purl.obolibrary.org/obo/HP_0001254	lethargy	léthargie	3	
+http://purl.obolibrary.org/obo/HP_0001254	lethargy	lethargic	1	
+http://purl.obolibrary.org/obo/HP_0001254	lethargy	slow, socially withdrawn	2	
+http://purl.obolibrary.org/obo/HP_0001254	lethargy	slow	2	
+http://purl.obolibrary.org/obo/HP_0001254	lethargy	socially withdrawn	2	
+http://purl.obolibrary.org/obo/HP_0045027	abnormality of the thoracic cavity	phenotypic abnormality of thoracic cavity	1	
+http://purl.obolibrary.org/obo/HP_0030709	myelocystocele	mielocistocelo	3	
+http://purl.obolibrary.org/obo/HP_0030709	myelocystocele	myelozystozele	3	
+http://purl.obolibrary.org/obo/HP_0030709	myelocystocele	mielocistocele	3	
+http://purl.obolibrary.org/obo/HP_0030709	myelocystocele	myélocystocèle	3	
+http://purl.obolibrary.org/obo/HP_0002576	intussusception	intususceptions	1	misspelling?
+http://purl.obolibrary.org/obo/HP_0002576	intussusception	intestinal invagination	1	
+http://purl.obolibrary.org/obo/HP_0002576	intussusception	invaginations, intestinal	1	
+http://purl.obolibrary.org/obo/HP_0002576	intussusception	intestinal invaginations	1	
+http://purl.obolibrary.org/obo/HP_0002576	intussusception	invagination, intestinal	1	
+http://purl.obolibrary.org/obo/HP_0002576	intussusception	intususception	1	misspelling?
+http://purl.obolibrary.org/obo/HP_0002576	intussusception	invagination of intestine or colon	1	
+http://purl.obolibrary.org/obo/HP_0002576	intussusception	introsusception	2	
+http://purl.obolibrary.org/obo/HP_0200007	abnormal size of the palpebral fissures	abnormal eyelid aperture	1	
+http://purl.obolibrary.org/obo/HP_0200007	abnormal size of the palpebral fissures	abnormal eye lid aperture	1	
+http://purl.obolibrary.org/obo/HP_0200007	abnormal size of the palpebral fissures	abnormal eyelid opening	1	
+http://purl.obolibrary.org/obo/HP_0030781	increased circulating free fatty acid level	increased circulating non\-esterified fatty acids level	1	
+http://purl.obolibrary.org/obo/HP_0030781	increased circulating free fatty acid level	increased ufa level	1	
+http://purl.obolibrary.org/obo/HP_0030781	increased circulating free fatty acid level	elevated serum free fatty acid levels	1	
+http://purl.obolibrary.org/obo/HP_0030781	increased circulating free fatty acid level	increased ffa level	1	
+http://purl.obolibrary.org/obo/HP_0030781	increased circulating free fatty acid level	increased unesterified fatty acids level	1	
+http://purl.obolibrary.org/obo/HP_0025237	confusional arousal	excessive sleep inertia	2	i don;t tink these two are synpnymous
+http://purl.obolibrary.org/obo/HP_0025237	confusional arousal	sleep drunkeness	1	
+http://purl.obolibrary.org/obo/HP_0025237	confusional arousal	sleep arousal disorders	1	
+http://purl.obolibrary.org/obo/HP_0025237	confusional arousal	arousal disorder, sleep	1	
+http://purl.obolibrary.org/obo/HP_0025237	confusional arousal	arousal, confusional	1	
+http://purl.obolibrary.org/obo/HP_0025237	confusional arousal	arousal disorders, sleep	1	
+http://purl.obolibrary.org/obo/HP_0025237	confusional arousal	arousals, confusional	1	
+http://purl.obolibrary.org/obo/HP_0025237	confusional arousal	sleep arousal disorder	1	
+http://purl.obolibrary.org/obo/HP_0025237	confusional arousal	confusional arousals	1	
+http://purl.obolibrary.org/obo/HP_0030693	supratentorial neoplasm	supratentorial tumors	1	
+http://purl.obolibrary.org/obo/HP_0030693	supratentorial neoplasm	supratentorial tumor	1	
+http://purl.obolibrary.org/obo/HP_0030693	supratentorial neoplasm	brain neoplasms, supratentorial	1	
+http://purl.obolibrary.org/obo/HP_0005897	severe generalized osteoporosis	severe osteoporosis	1	
+http://purl.obolibrary.org/obo/HP_0001902	giant platelets	giant platelet count	1	
+http://purl.obolibrary.org/obo/HP_0001902	giant platelets	platgnt	2	nonesense
+http://purl.obolibrary.org/obo/HP_0011251	underdeveloped antitragus	prominent antitragus	2	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	aspartylglycosaminuria	1	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	aspartylglucosaminidase deficiency	1	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	glycosylasparaginase deficiency	1	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	aspartylglucosamidase deficiencies	1	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	deficiency, aga	1	but i dont know if refeerred to as this as aga is gene
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	glycoasparaginases	1	former cause edby deficiency in latter, are you happy to say synonymous
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	deficiency, aspartylglucosamidase	1	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	deficiencies, aga	1	but i dont know if refeerred to as this as aga is gene
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	glycoasparaginase	1	former cause edby deficiency in latter
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	aga deficiencies	1	but i dont know if refeerred to as this as aga is gene
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	aspartylglucosamidase deficiency	1	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	aspartylglycosaminurias	1	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	deficiencies, aspartylglucosamidase	1	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	aga deficiency	1	but i dont know if refeerred to as this as aga is gene
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	aspartylglukosaminurie	2	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	aspartilglucosaminuria	1	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	aspartilglicosaminúria	3	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	aspartylglucosaminurie	3	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	aspartilglucosaminidase, deficiência de	3	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	déficit en aspartylglucosaminidase	3	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	deficit di aspartilglucosaminidasi	3	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	deficiência de aspartilglucosaminidase	3	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	aspartyl\-glukosaminidase\-mangel	3	
+http://purl.obolibrary.org/obo/HP_0012068	aspartylglucosaminuria	déficit de aspartilglucosaminidasa	3	
+http://purl.obolibrary.org/obo/HP_0010490	abnormality of the palmar creases	abnormal palmar creases	1	
+http://purl.obolibrary.org/obo/HP_0011467	absent gallbladder	absent gall bladder	1	
+http://purl.obolibrary.org/obo/HP_0011467	absent gallbladder	absent cholecyst	1	
+http://purl.obolibrary.org/obo/HP_0002561	absent nipple	absent thele	1	
+http://purl.obolibrary.org/obo/HP_0002561	absent nipple	absent teat	1	
+http://purl.obolibrary.org/obo/HP_0002561	absent nipple	absent papilla of breast	1	
+http://purl.obolibrary.org/obo/HP_0002561	absent nipple	absent thelium	1	
+http://purl.obolibrary.org/obo/HP_0002561	absent nipple	absent papilla mammae	1	
+http://purl.obolibrary.org/obo/HP_0003457	emg abnormality	abnormal electromyography \(emg\).	1	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	hypoglycémie	3	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	hypoglycémie, sans précision	3	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	sugar; blood, low	1	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	low blood sugar level	1	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	low blood glucose	1	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	syndrome hypoglycémique	3	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	hypoglycemic syndrome	1	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	hypoglycemic disorder	1	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	hipoglucemia	3	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	hypoglykämie	3	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	ipoglicemia	3	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	hipoglicemia	3	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	blood glucose, low	1	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	glucose, low blood	1	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	sugar blood decreased	1	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	blood sugar decreased	1	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	hypoglycaemia neonatal	1	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	glucose blood decreased	1	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	hypoglycaemia	1	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	decreased blood glucose level	1	
+http://purl.obolibrary.org/obo/HP_0001943	hypoglycemia	low blood glucose levels	1	
+http://purl.obolibrary.org/obo/HP_0025070	abnormal u wave	u wave abnormality by ecg finding	1	
+http://purl.obolibrary.org/obo/HP_0025070	abnormal u wave	u wave abnormality	1	
+http://purl.obolibrary.org/obo/HP_0025070	abnormal u wave	u wave abnormality by ekg finding	1	
+http://purl.obolibrary.org/obo/HP_0000636	upper eyelid coloboma	upper eyelid colobomas	1	
+http://purl.obolibrary.org/obo/HP_0004438	hyperostosis frontalis interna	syndrome, morgagni\-stewart\-morel	1	
+http://purl.obolibrary.org/obo/HP_0004438	hyperostosis frontalis interna	leontiasis ossium	1	
+http://purl.obolibrary.org/obo/HP_0004438	hyperostosis frontalis interna	morgagni\-stewart\-morel syndrome	1	
+http://purl.obolibrary.org/obo/HP_0004438	hyperostosis frontalis interna	morgagni stewart morel syndrome	1	
+http://purl.obolibrary.org/obo/HP_0000095	abnormality of renal glomerulus morphology	abnormality of the glomerulus	1	
+http://purl.obolibrary.org/obo/HP_0011110	tonsillitis	tonsillitides	1	pleural form of tonsillitis
+http://purl.obolibrary.org/obo/HP_0011110	tonsillitis	inflammation of tonsil	1	
+http://purl.obolibrary.org/obo/HP_0011110	tonsillitis	tonsil inflammation	1	
+http://purl.obolibrary.org/obo/HP_0011110	tonsillitis	tonsilitis	1	
+http://purl.obolibrary.org/obo/HP_0100015	stahl ear	antihelix	1	
+http://purl.obolibrary.org/obo/HP_0001399	hepatic failure	failure liver	1	
+http://purl.obolibrary.org/obo/HP_0000573	retinal hemorrhage	retinal haemorrhage	1	
+http://purl.obolibrary.org/obo/HP_0000573	retinal hemorrhage	hemorrhage retinal	1	
+http://purl.obolibrary.org/obo/HP_0000573	retinal hemorrhage	hemorrhage, retinal	1	
+http://purl.obolibrary.org/obo/HP_0000602	ophthalmoplegia	muscle paralysis eye	1	
+http://purl.obolibrary.org/obo/HP_0000602	ophthalmoplegia	ophthalmoparesis	1	
+http://purl.obolibrary.org/obo/HP_0000602	ophthalmoplegia	ophthalmopareses	1	
+http://purl.obolibrary.org/obo/HP_0000602	ophthalmoplegia	paralysis, oculomotor	1	
+http://purl.obolibrary.org/obo/HP_0000602	ophthalmoplegia	oculomotor paralysis	1	
+http://purl.obolibrary.org/obo/HP_0000602	ophthalmoplegia	extraocular muscle paralysis	1	
+http://purl.obolibrary.org/obo/HP_0000602	ophthalmoplegia	eye movement paralysis	1	
+http://purl.obolibrary.org/obo/HP_0000602	ophthalmoplegia	ophtalmoplégie	3	
+http://purl.obolibrary.org/obo/HP_0000602	ophthalmoplegia	paralysis extraocular muscle \(s\)	1	
+http://purl.obolibrary.org/obo/HP_0000602	ophthalmoplegia	paralysie de muscles extraoculaires	3	
+http://purl.obolibrary.org/obo/HP_0000602	ophthalmoplegia	paralysie oculomotrice	3	
+http://purl.obolibrary.org/obo/HP_0000602	ophthalmoplegia	paralysie musculaire d'un oeil	3	
+http://purl.obolibrary.org/obo/HP_0000602	ophthalmoplegia	eye movement impairment	1	
+http://purl.obolibrary.org/obo/HP_0000602	ophthalmoplegia	paralysie oculo\-motrice	3	
+http://purl.obolibrary.org/obo/HP_0000602	ophthalmoplegia	paralysie du muscle oculaire	3	
+http://purl.obolibrary.org/obo/HP_0001575	mood changes	mood change	1	
+http://purl.obolibrary.org/obo/HP_0100318	lafora bodies	lafora body accumulation	1	
+http://purl.obolibrary.org/obo/HP_0020154	nevus comedonicus	comedo nevus	1	
+http://purl.obolibrary.org/obo/HP_0020154	nevus comedonicus	acne nevus	1	
+http://purl.obolibrary.org/obo/HP_0020154	nevus comedonicus	pilosebaceous nevoid disorder	1	
+http://purl.obolibrary.org/obo/HP_0020154	nevus comedonicus	acneiform nevus	1	
+http://purl.obolibrary.org/obo/HP_0020154	nevus comedonicus	naevus comedonicus	1	
+http://purl.obolibrary.org/obo/HP_0010934	xanthinuria	xanthine oxidase deficiency	1	
+http://purl.obolibrary.org/obo/HP_0010934	xanthinuria	xanthine dehydrogenase deficiency	1	

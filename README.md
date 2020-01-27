@@ -23,8 +23,7 @@ include the labels already included in HPO, by running the Groovy script
 *generate_random_sample.groovy*. They will be printed to stdout, and you can 
 save them to a file - for example, *validation.csv*. These will have to be 
 manually validated, by you or a friend. However, the selection of labels we 
-used to validate, along with their validations, are available in
-*manual_validation.tsv*.
+used to validate, along with their validations, are available in *manual/validation.tsv* and *manual/marked_validation.tsv* along with *manual/count.groovy*, which will generate the performance metrics.
 
 ## Cardiovascular Annotation Evaluation
 
@@ -47,6 +46,3 @@ Then, we just have to annotate the entries. These annotations are stored in *car
 ./Komenti annotate --out cardio/unexp_ann.txt -l cardio/unexpanded_cardiovasc.txt -t mim3_entry_sample.tsv --per-line
 ./Komenti annotate --out cardio/exp_ann.txt -l cardio/expanded_cardiovasc.txt -t mim3_entry_sample.tsv --per-line
 ```
-
-## MEDLINE evaluation
-
