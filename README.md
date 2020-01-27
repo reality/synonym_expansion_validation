@@ -46,3 +46,14 @@ Then, we just have to annotate the entries. These annotations are stored in *car
 ./Komenti annotate --out cardio/unexp_ann.txt -l cardio/unexpanded_cardiovasc.txt -t mim3_entry_sample.tsv --per-line
 ./Komenti annotate --out cardio/exp_ann.txt -l cardio/expanded_cardiovasc.txt -t mim3_entry_sample.tsv --per-line
 ```
+
+## MEDLINE Validation
+
+You can run the MEDLINE validations with the following commands:
+
+```bash
+./Komenti get_abstracts -l ../synonym_expansion_validation/cardio/unexpanded_cardiovasc.txt --count-only
+./Komenti get_abstracts -l ../synonym_expansion_validation/cardio/expanded_cardiovasc.txt --count-only
+```
+
+These are likely to have changed, due to additions to the MEDLINE database. The output for the figures reported in the paper can be found in *medline/*.
